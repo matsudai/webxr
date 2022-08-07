@@ -15,3 +15,7 @@ Using examples: https://threejs.org/examples/?q=webxr#webxr_ar_dragging
         * three.js/examples/jsm/webxr -> public/jsm/webxr
         * three.js/examples/jsm/loaders -> public/jsm/loaders
         * three.js/examples/jsm/libs -> public/jsm/libs
+    * webxr_vr_ballshooter
+        * three.js/examples/webxr_vr_handinput_pointerclick.html -> public/webxr_vr_handinput_pointerclick.html
+        * three.js/examples/jsm/webxr -> public/jsm/webxr
+        * three.js/examples/jsm/libs -> public/jsm/libs
