@@ -13,3 +13,9 @@ yarn create next-app --typescript
 ```sh
 yarn add -D prettier
 ```
+
+### Three.js (WebXR Wrapper)
+
+```sh
+yarn add three @types/three
+```
